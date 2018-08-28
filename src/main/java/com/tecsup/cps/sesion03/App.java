@@ -10,4 +10,11 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public int suma( int a, int b )
+    {
+        int sum = a + b ;
+        return sum;
+    }
+
 }
